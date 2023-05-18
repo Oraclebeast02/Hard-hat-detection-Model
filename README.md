@@ -1,6 +1,6 @@
 # fastai  Object Detection - HelmetDetection
 
-This repository is one of my projects during my internship in instadeep, And it is a challenge in Zindi; Link to Competition: [Hard hat detection challenge by Instadeep](https://zindi.africa/hackathons/dsc-academy-hard-hat-detection-challenge/data)
+This repository is one of my projects during my internship in Jindal steel & Power
 
 It shows how to deploy Object Detection API - fast ai and give specific tutorials. It is based on [Object Detection](https://github.com/tensorflow/models/tree/master/research/object_detection). A specific example is to detect helmet, it could also explore to any other object detection tasks.
 
