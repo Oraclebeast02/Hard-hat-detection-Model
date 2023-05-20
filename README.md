@@ -15,13 +15,13 @@ This is how to build an object detector for a custom dataset. You can find the c
 </p>
 
 ## Dataset
-#### This dataset, contains 5269 images with bounding box annotations as a test set in the PASCAL VOC format for these 3 classes:
+#### This dataset, contains 103 images with bounding box annotations as a test set in the PASCAL VOC format for these 3 classes:
 
 * Helmet
 * Person.
 * Head.
 
-#### And 1766 images as a test set, of total 7035 images.
+#### And 7 images as a test set, of total 103 images.
 
 ## Annotations
 Annotations saved as [CSV File](https://drive.google.com/file/d/1RRNWCmzuGeaaF3xfQyEUjVP0abc3RO2M/view?usp=sharing), After some processing on the CSV file and loading it to a Pandas df
